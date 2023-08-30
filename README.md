@@ -6,9 +6,9 @@ This repository consists of a full stack application that uses [Next.js](https:/
 
 ![](./screenshots/home.png)
 
-For more screenshots [click here](./screenshots/)
+Screenshot Gallery: [click here](./screenshots/)
 
-For our presentation [click here](https://www.youtube.com/embed/QweGtTM0H_w)
+Finals Presentation: [click here](https://www.youtube.com/embed/QweGtTM0H_w)
 
 ## Features & Functionality
 

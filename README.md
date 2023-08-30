@@ -6,7 +6,7 @@ This repository consists of a full stack application that uses [Next.js](https:/
 
 [Screenshot Gallery](./screenshots/)
 
-[Finals Presentation](https://www.youtube.com/embed/QweGtTM0H_w)
+[Live Presentation](https://www.youtube.com/embed/QweGtTM0H_w)
 
 ![](./screenshots/home.png)
 

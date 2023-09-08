@@ -4,13 +4,11 @@ This repository consists of a full stack application that uses [Next.js](https:/
 
 ## Preview
 
-![Alt text for your gif](https://im5.ezgif.com/tmp/ezgif-5-99063c4417.gif)
+![gif](https://im5.ezgif.com/tmp/ezgif-5-99063c4417.gif)
 
 [Screenshot Gallery](./screenshots/)
 
 [Live Presentation](https://www.youtube.com/embed/QweGtTM0H_w)
-
-![](./screenshots/home.png)
 
 ## Features & Functionality
 

@@ -1,4 +1,4 @@
-# Sound Sprout - (In Development)
+# Sound Sprout
 
 This repository consists of a full stack application that uses [Next.js](https://nextjs.org/) for the frontend, and Python [Django](https://www.djangoproject.com/) with [Django Rest Framework](https://www.django-rest-framework.org/) for the backend API, all backed by a [PostgreSQL](https://www.postgresql.org/) database.
 
